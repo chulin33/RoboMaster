@@ -1,2 +1,2 @@
-├── task1
-│   └── environment        #配置环境
+- task1/                        # 第一次任务
+  - environment/                # 配置环境
